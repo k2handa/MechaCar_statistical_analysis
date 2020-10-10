@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#ignore csv files 
+MechaCar_mpg.csv
+Suspension_Coil.csv
+
+
+
 # C extensions
 *.so
 
