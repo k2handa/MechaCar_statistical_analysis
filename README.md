@@ -10,7 +10,7 @@ AutosRUs’ newest prototype vehicle, the "MechaCar", is suffering from producti
 ## Linear Regression to Predict MPG
 Design a linear model that predicts the mpg of MechaCar prototypes using several variables from the MechaCar_mpg.csv file. First we will see some of the data we are working with
 
-![MechaCar import table](.../Resources/MechaCar import table.png)
+![MechaCar import table](Resources/MechaCar import table.png)
 
 
 ### Linear Regression Result
