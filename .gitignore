@@ -4,8 +4,18 @@ __pycache__/
 *$py.class
 
 #ignore csv files 
-MechaCar_mpg.csv
-Suspension_Coil.csv
+demo.csv
+
+#json files
+demo.json
+
+#history files
+.Rhistory
+
+#session data files
+.RData
+demo.R
+
 
 
 
