@@ -15,7 +15,7 @@ Design a linear model that predicts the mpg of MechaCar prototypes using several
 
 ### Linear Regression Result
 
-![Deliverable1_Result1](/Resources/Deliverable1_Result1.png)
+![LM](/blob/main/Resources/LM.png)
 
 ![Deliverable1_Result1](/Resources/Deliverable1_Result2.png)
 
